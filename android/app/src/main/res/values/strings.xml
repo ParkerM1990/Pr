@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Parkingowy Dziennik Projektu</string>
+    <string name="title_activity_main">Parkingowy Dziennik Projektu</string>
+    <string name="package_name">com.parkingowy.dziennik</string>
+    <string name="custom_url_scheme">com.parkingowy.dziennik</string>
+</resources>
